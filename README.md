@@ -4,17 +4,21 @@
 
 run_analysis.R downloads a zip file and manipulates the data. 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
+
 Reads in the following files:
 
 x_test.txt
+
 y_test.txt
-Train files:
+
 x_train.txt
+
 y_train.txt
-Subject files:
+
 subject_test.txt
+
 subject_train.txt
-Read the data from the files into variables.
+
 
 ##Steps:
 
